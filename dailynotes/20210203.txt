@@ -1,10 +1,9 @@
-2021-02-03
-Notes for Day #1 of #100DaysOfLearning
+2021-02-03 Notes for Day #1 of #100DaysOfLearning
 
-Wrote a small java program to print out the fibonacci sequence recursively
-
+> Set up new public repo for my notes and code.
+https://github.com/anthonylicalsi/100daysoflearning/
+> Configured InteliJ Community edition with the new 100daysoflearning git project
+> Wrote a small java program to print out the fibonacci sequence recursively
 code/FibonacciGeneratorWithRecusion.java
-
-
 
 
