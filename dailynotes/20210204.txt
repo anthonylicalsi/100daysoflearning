@@ -1,0 +1,7 @@
+2021-02-04 Notes for Day #2 of #100DaysOfLearning
+> I received a python log analyzer from a vendor. I had to migrate it from python 2.7 to 3.8.
+- The analzer uses pandas to agregate the data for statistics as well as pandas.ExcelWriter to create an excel report
+- python code can be found under code/log-analyzer.py
+
+
+
