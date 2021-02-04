@@ -42,30 +42,54 @@ There is no way to plan the full 100 days in advance but try to plan a few days 
 Topics / Ideas:
  
 Data Structures and Algorithms
+
 Programming Problems
+
 Java
+
 Spring
+
 Design Patterns
+
 Clean Coding
+
 Services/MicroServices
+
 HTML
+
 CSS
+
 JavaScript
+
 TypeScript
+
 Angular
+
 UX
+
 Git/GitLab
+
 DevOps
+
 Camunda
+
 BPMN Modeling with Camunda
+
 Python
+
 Data Analytics
+
 Machine Learning
+
 Scrum
+
 SAFe
+
 AWS
+
 Azure
-Salesforce 
+
+Salesforce
 
  
 Resources:
