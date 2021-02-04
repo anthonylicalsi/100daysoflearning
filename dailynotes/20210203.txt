@@ -1,0 +1,10 @@
+2021-02-03
+Notes for Day #1 of #100DaysOfLearning
+
+Wrote a small java program to print out the fibonacci sequence recursively
+
+code/FibonacciGeneratorWithRecusion.java
+
+
+
+
