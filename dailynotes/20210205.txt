@@ -1,0 +1,2 @@
+2021-02-05 Notes for Day #3 of #100DaysOfLearning
+> Simple python program created to GET a rest API
