@@ -1,0 +1,27 @@
+2021-02-06 Notes for Day #4 of #100DaysOfLearning
+>PluralSight Course: Creating and Managing Custom and Standard Objects in Salesforce
+1 Course Overview - Module length:  1m 38s
+2 Understanding Objects, Fields, and the Standard Object Model - Module length:  23m 59s
+- Objects, Fields, and Records 3m 30s
+- Demo: Getting Started with Objects 4m 25s
+- Understanding Common Standard Fields 8m 10s
+- Exploring Standard Objects 7m 53s
+3 Designing Custom Fields and Custom Objects - Module length:  24m 19s
+- Creating Objects and Fields 8m 50s
+- Creating Custom Tabs 2m 9s
+- Options around Custom Objects 5m 18s
+- Exploring Field Types 3m 25s
+- Deleting Fields and Changing Field Types: Considerations 4m 35s
+4 Deep Dive into Custom Fields - Module length:  34m 14s
+- Text Fields 3m 5s
+- Auto-number, Phone, Email, and URL Fields 2m 36s
+- Managing Picklists and Picklist Values 10m 2s
+- Demo: Controlling and Dependent Picklists 3m 51s
+- Date, Time, and Date/Time Fields 2m 17s
+- Relationship Fields: Lookup and Master-detail 3m 10s
+- Formula Fields 6m 12s
+- Checkbox, Geolocation, and Currency Fields 2m 57s
+5 Building around Objects: Page Layouts and Validations - Module length:  14m 28s
+- Enforce Data Integrity: Validations 4m 42s
+- Page Layouts 5m 14s
+- Demo: Related Lists on Page Layouts and Compact Layouts 4m 31s
