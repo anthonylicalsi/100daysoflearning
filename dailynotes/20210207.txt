@@ -1,0 +1,14 @@
+2021-02-07 Notes for Day #5 of #100DaysOfLearning
+>PluralSight Course: Creating and Managing Custom and Standard Objects in Salesforce
+6 Managing Record Types - Module length:  15m 49s
+- Introduction to Record Types - 8m 29s
+- Customizations and Configurations for Record Types 7m 20s
+7 Modeling Relationships - Module length:  26m 21s
+- Entity Relationship Diagrams 6m 48s
+- Lookup and Master-detail: A Closer Look 6m 59s
+- Many-to-many Relationships and Junction Objects 8m 8s
+- Roll-up Summary Fields 4m 24s
+8 Exploring the Standard Object Model - Module length:  8m 58s
+- The Standard Object Model 5m 39s
+    - https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/data_model.htm
+- Course Summary and Key Takeaways 3m 18s
