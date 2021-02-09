@@ -7,4 +7,3 @@ print(">>>>>>>>>>>")
 my_first_df = pd.DataFrame(my_numpy_array)
 print(my_first_df)
 print(">>>>>>>>>>>")
-
