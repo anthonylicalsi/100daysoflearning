@@ -1,0 +1,16 @@
+2021-02-08 Notes for Day #6 of #100DaysOfLearning
+> PluralSight Course: Pandas Fundamentals
+1 Course Overview Module length:1m 30s
+2 Getting Started Module length:12m 36s
+- Course Introduction 0m 55s
+- Overview 0m 28s
+- Why Use Pandas? 1m 54s
+- The Dataset and Basic Objects 3m 41s
+    https://github.com/tategallery/collection
+- Demo 5m 37s
+3 Exploring Pandas Data Input Capabilities Module length:16m 27s
+- Overview 0m 48s
+- Pandas-compatible Data Formats 2m 12s
+- Tate Collection Metadata: Take One 6m 16s
+- Tate Collection Metadata: Take Two 7m 8s
+> sample practice code can be found at code/pandafun1.py and code/pandafun2.py
