@@ -1,0 +1,16 @@
+2021-02-09 Notes for Day #7 of #100DaysOfLearning
+> PluralSight Course: Pandas Fundamentals
+4 Indexing and Filtering Module length:16m 29s
+- Overview 1m 28s
+- The Basics 1m 17s
+- Demo 1 0m 58s
+- Filtering 0m 53s
+- Demo 2 1m 23s
+- Indexing Done the Right Way 3m 6s
+- Demo 3 6m 24s
+- Dos and Dont's 0m 56s
+5 Operations on Groups Module length:15m 3s
+- Overview 0m 46s
+- Types of Operations on Groups 3m 43s
+- Iterating Over Groups 6m 1s
+- Built-in Methods 4m 33s
