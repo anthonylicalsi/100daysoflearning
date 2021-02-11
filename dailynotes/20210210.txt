@@ -1,0 +1,18 @@
+2021-02-10 Notes for Day #8 of #100DaysOfLearning
+> PluralSight Course: Pandas Fundamentals
+6 Outputting Data Module length:6m 51s
+- Overview 1m 12s
+- Demo 3m 31s
+- SQL Demo 1m 17s
+- JSON Demo 0m 49s
+7 Plotting Module length:11m 46s
+- Overview 0m 49s
+- Introductions 0m 37s
+- Simplest Plot 1m 22s
+- Leveraging Matplotlib 2m 56s
+- Plot Customization and Exporting 3m 29s
+- Course Summary 2m 31s
+> https://pandas.pydata.org/pandas-docs/stable/
+> Book - Python for Data Analysis By Wes McKinney - creator of Pandas
+> Book - OpenIntro Statistics - Open Source introductory statistics textbook
+> Code can be found in code/pandafun4.py and code/pandafun5.py
