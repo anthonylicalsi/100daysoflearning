@@ -1,0 +1,5 @@
+2021-02-11 Notes for Day #9 of #100DaysOfLearning
+> Writing python script to take an Appway business object report and create a release exception report
+- Working on panda dataframe filtering and query
+- Script is work in progress still
+- code can be found at code/analyze_bo_reports.py
